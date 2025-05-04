@@ -1,0 +1,1 @@
+n1 = float(input('Primeira nota do alunom:'))
